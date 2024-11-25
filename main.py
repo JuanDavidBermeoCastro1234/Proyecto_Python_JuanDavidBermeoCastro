@@ -1,2 +1,1 @@
-from menu.menuPrincipal
-
+from menu.menuPrincipal import Designprincipal
