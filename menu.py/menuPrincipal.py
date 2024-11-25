@@ -16,5 +16,3 @@ def Designprincipal ():
     """)
     option=int(input("ingrese por favor que opcion desea ejecutar(1-5): "))
     return option
-
-
