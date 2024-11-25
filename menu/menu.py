@@ -1,5 +1,5 @@
-def Designprincipal ():
-    print(""" 
+def Designprincipal():
+    print("""
           
     =============================================
          Simulador de Gasto Diario

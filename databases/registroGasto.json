@@ -1,10 +1,9 @@
 {
 
-    "": {
-        "gasto": "",
-        "categoria": "",
-        "Descripción ":""
-
+    "2022-11-02": {
+        "gasto": "50",
+        "categoria": "comida",
+        "Descripción ":"almuerzo"
     }
 
 }
